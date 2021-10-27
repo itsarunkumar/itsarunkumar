@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...developing my coding skillss
 - 🌱 I’m currently learning ...web developement
 - 💞️ I’m looking to collaborate on ...web app projects
-- 📫 How to reach me ...reach me at instagram @email:  003arunkumark@gmail.com
+- 📫 How to reach me ...reach me @email:  003arunkumark@gmail.com
 
 <!---
 itsarunkumar/itsarunkumar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
