@@ -14,7 +14,7 @@ Here are some of the key technologies that I have experience with:
 
 Please feel free to explore my Github repositories and don't hesitate to reach out if you have any questions or comments. Thank you for stopping by!
 
-[LinkedIn]([https://www.linkedin.com/in/itsarunkumark](https://www.linkedin.com/in/itsarunkumark))
+
 
 <!---
 itsarunkumar/itsarunkumar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
