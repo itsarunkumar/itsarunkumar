@@ -1,6 +1,3 @@
-**Hey there Iam Arun , a wanna be coder thats all...😉**
-
-website : https://itsarun.vercel.app/
 
 <!---
 itsarunkumar/itsarunkumar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
